@@ -6,7 +6,7 @@ import { Experience, Project, Skill, Certification, Education, Testimonial } fro
 // ==========================================
 
 export const PERSONAL_INFO = {
-  name: "Pratap S ",
+  name: "Pratap Sakthivel ",
   title: "Aspiring Software Developer  | AI Full Stack Developer",
   tagline: "Building digital experiences with modern technologies.",
   about: "I am an aspiring Software Developer with a strong foundation in Java, full stack development, and problem solving. I focus on building clean, scalable web applications and efficiently leveraging AI tools to accelerate development while maintaining strong core fundamentals. I enjoy learning new technologies and converting ideas into real-world solutions.",
