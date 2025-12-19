@@ -11,7 +11,7 @@ export const PERSONAL_INFO = {
   tagline: "Building digital experiences with modern technologies.",
   about: "I am an aspiring Software Developer with a strong foundation in Java, full stack development, and problem solving. I focus on building clean, scalable web applications and efficiently leveraging AI tools to accelerate development while maintaining strong core fundamentals. I enjoy learning new technologies and converting ideas into real-world solutions.",
   email: "pratapssakthivel@gmail.com",
-  profileImageUrl: "/pic 1.jpg", // Path to your professional photo
+  profileImageUrl: "/pic_1.jpg", // Path to your professional photo
   resumeUrl: "/resume.pdf", // Path to your resume
   socials: {
     github: "https://github.com/PratapSakthivel",
