@@ -117,7 +117,7 @@ export const PROJECTS: Project[] = [
     imageUrl:
       "https://www.mediabistro.com/wp-content/uploads/2016/02/tips-on-getting-your-copywriter-portfolio-started.jpg",
     repoUrl:
-      "https://github.com/PratapSakthivel/portfolio",
+      "https://github.com/PratapSakthivel/Personal-Portfolio-Website/blob/main/README.md",
     demoUrl:
       "https://drive.google.com/drive/u/0/folders/12wDp9MBEvI3qMen6Oem8xac2wkYzpHSO",
   },
