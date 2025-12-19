@@ -134,7 +134,7 @@ export const EXPERIENCE: Experience[] = [
   id: "1",
   role: "Infosys Springboard Virtual Internship 6.0",
   company: "Infosys",
-  period: "13th October 2023 – 3rd December 2023",
+  period: "13th October 2025 – 3rd December 2025",
   description: "Worked on SmartShelfX, an AI-based inventory forecasting and auto-restock system, building dashboards, APIs, and alerts to reduce stockouts using data-driven insights."
 }
 
